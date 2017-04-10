@@ -1,5 +1,5 @@
 # auto_login
-Script which tries to login in a website until it is successful. It can be used in case of heavy traffic on a website.    
+Script which tries to login in a website (SRM University Hostel Booking website in this example)  until it is successful. It can be used in case of heavy traffic on a website.    
 
 Instructions:
   1) Install Python 3
